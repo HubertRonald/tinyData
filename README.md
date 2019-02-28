@@ -5,7 +5,7 @@
 > This repo contains two `(02)` following files.
 
 - **[run\_analysis.R :](https://github.com/HubertRonald/tinyData/blob/master/run_analysis.R)** R scrip to perform analysis
-- **[CodeBook.md :](https://github.com/HubertRonald/tinyData/blob/master/codeBook.md)** document that describes the variables, data, and transformations
+- **[codeBook.md :](https://github.com/HubertRonald/tinyData/blob/master/codeBook.md)** document that describes the variables, data, and transformations
 
 ## 2. About script
 
